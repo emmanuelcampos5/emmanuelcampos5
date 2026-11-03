@@ -31,7 +31,7 @@
 ### Proyectos destacados
 
 #### 🏛️ Nexa — Plataforma de concursos de empleo público
-Plataforma multi-tenant donde las entidades publican concursos, los candidatos postulan con documentos reutilizables y los evaluadores revisan con apoyo de una **pre-evaluación por IA con citas verificadas** y corrección humana. Siete fases construidas: autenticación con MFA, auditoría, antivirus de archivos, evaluación por requisitos, mensajería masiva y endurecimiento (seguridad, accesibilidad, pruebas de carga, copias y recuperación).
+Plataforma multi-tenant donde las entidades publican concursos, los candidatos postulan con documentos reutilizables y los evaluadores revisan con apoyo de una **pre-evaluación por IA con citas verificadas** y corrección humana. Ocho fases construidas con *spec-driven development*: autenticación con MFA, auditoría, antivirus de archivos, evaluación por requisitos, mensajería masiva y endurecimiento (seguridad, accesibilidad, pruebas de carga, copias y recuperación).
 
 `.NET 10` `ASP.NET Core` `Clean Architecture` `EF Core` `PostgreSQL` `React 19` `TypeScript` `Vite` `TanStack Query` `SignalR` `ClamAV` `Docker` `Nginx` `Prometheus` `Grafana` `Loki` `Oracle Cloud`
 
