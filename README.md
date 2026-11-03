@@ -89,6 +89,12 @@ Bot con *slash commands*, cola de reproducción y audio de YouTube y Spotify, co
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 
+**En aprendizaje**<br/>
+<img src="https://img.shields.io/badge/IBM%20i%20(AS%2F400)-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/RPG%20Fully%20Free-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSPF-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/DB2%20for%20i-052FAD?style=flat-square&logo=ibm&logoColor=white"/>
+
 ---
 
 ### Formación y certificaciones
