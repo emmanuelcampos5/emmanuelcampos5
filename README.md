@@ -17,7 +17,7 @@
 ### Sobre mí
 
 - **AI Apprentice en Novacomp** (Nova AI Apprentice Program, 2026): agentes de IA, RAG, servidores MCP y LangGraph con enfoque AI-First.
-- **Analista programador en CR ATESA Software** (2024–2025): migración del flujo de crédito personal y prendario de **Banco Davivienda** a BPM Ultimus, con APIs REST en C# y .NET sobre microservicios.
+- **Analista Programador Pasante y Junior en CR ATESA Software** (2024–2025): migración del flujo de crédito personal y prendario de **Banco Davivienda** a BPM Ultimus, con APIs REST en C# y .NET sobre microservicios.
 - Dos sistemas internos en .NET (permisos y vacaciones, cuentas por cobrar) **llevados a producción** sobre IIS.
 
 ### Cómo trabajo
@@ -36,12 +36,12 @@ Plataforma multi-tenant donde las entidades publican concursos, los candidatos p
 `.NET 10` `ASP.NET Core` `Clean Architecture` `EF Core` `PostgreSQL` `React 19` `TypeScript` `Vite` `TanStack Query` `SignalR` `ClamAV` `Docker` `Nginx` `Prometheus` `Grafana` `Loki` `Oracle Cloud`
 
 #### 🤖 AgenteAutonomo — Equipo autónomo de ingeniería de software
-Seis agentes especializados (Product → Architecture → Developer → Security → Testing → Reviewer) que convierten un requerimiento en lenguaje natural en código listo para probar, con retroceso automático entre etapas y *human-in-the-loop* ante riesgos críticos.
+Seis agentes especializados (Product → Architecture → Developer → Security → Testing → Reviewer) que convierten un requerimiento en lenguaje natural en código listo para probar, con retroceso automático entre etapas y *human-in-the-loop* ante riesgos críticos. Proyecto en equipo: implementé las compuertas de seguridad, la observabilidad, la suite adversarial y la UI web.
 
 `Python` `FastAPI` `LangGraph` `RAG` `MCP` `Langfuse`
 
 #### 🏖️ SistemaVacacionesPermisos + Oro-Agente — Vacaciones con asistente de IA
-Sistema de solicitudes de vacaciones con roles de empleado, aprobador y RR. HH., construido en un mes con *spec-driven development* y pruebas unitarias y de integración. Se complementa con **Oro-Agente**, un chat multiagente que crea y consulta solicitudes contra la API del sistema y prepara un plan de viaje cuando la solicitud se aprueba.
+Sistema de solicitudes de vacaciones con roles de empleado, aprobador y RR. HH., construido en un mes con *spec-driven development* y pruebas unitarias y de integración. Se complementa con **Oro-Agente**, un chat multiagente construido en equipo que crea y consulta solicitudes contra la API del sistema y prepara un plan de viaje cuando la solicitud se aprueba.
 
 `ASP.NET Core MVC` `Clean Architecture` `EF Core` `Identity` `xUnit` · `Python` `FastAPI` `smolagents` `Docker`
 
@@ -124,7 +124,7 @@ Bot con *slash commands*, cola de reproducción y audio de YouTube y Spotify, co
 - 🎓 Bachillerato en Informática Empresarial — Universidad de Costa Rica
 - ✅ Scrum Fundamentals Certified (SFC) — SCRUMstudy, 2026
 - 💬 English for IT I (50 h) — MICITT, 2025
-- ⚛️ Desarrollo Front-End con JavaScript y React (313 h) — Oracle Next Education / Alura Latam
+- ⚛️ Desarrollo Front-End con JavaScript y React (313 h) — Oracle Next Education / Alura Latam, 2024
 - 🌐 Español nativo · Inglés B2
 
 <p align="center"><sub>Especificado por mí, implementado con IA, revisado por mí.</sub></p>
