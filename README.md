@@ -95,7 +95,7 @@ Bot con *slash commands*, cola de reproducción y audio de YouTube y Spotify, co
 
 - 🎓 Bachillerato en Informática Empresarial — Universidad de Costa Rica
 - ✅ Scrum Fundamentals Certified (SFC) — SCRUMstudy, 2026
-- ☁️ Introducción a Microsoft Azure — Microsoft Learn, 2025
+- 💬 English for IT I (50 h) — MICITT, 2025
 - ⚛️ Desarrollo Front-End con JavaScript y React (313 h) — Oracle Next Education / Alura Latam
 - 🌐 Español nativo · Inglés B2
 
