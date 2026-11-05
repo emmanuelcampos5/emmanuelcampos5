@@ -35,6 +35,11 @@ Plataforma multi-tenant donde las entidades publican concursos, los candidatos p
 
 `.NET 10` `ASP.NET Core` `Clean Architecture` `EF Core` `PostgreSQL` `React 19` `TypeScript` `Vite` `TanStack Query` `SignalR` `ClamAV` `Docker` `Nginx` `Prometheus` `Grafana` `Loki` `Oracle Cloud`
 
+#### 🖥️ IBMi-Bridge — Modernizar IBM i (AS/400) sin reescribir
+API REST en .NET 10 y web en React que trabajan sobre **los mismos datos de DB2 for i y la misma lógica de negocio RPG** que una pantalla 5250, sin reescribirla. Las escrituras de la web pasan por la capa de negocio RPG existente, expuesta como procedimientos SQL externos; una regla de límite de crédito escrita una sola vez en RPG se ejecuta desde las dos pantallas, y la concurrencia optimista (ETag sobre un `ROW CHANGE TIMESTAMP`) evita que la web pise un cambio hecho en la 5250. 69 pruebas automatizadas y pruebas de integración contra un IBM i real (PUB400). **[Demo en vivo ↗](https://ibmi-bridge.ecnexasoft.site)** (usa un IBM i simulado).
+
+`C#` `.NET 10` `ASP.NET Core` `Dapper` `ODBC` `DB2 for i` `RPG IV Free` `SQLRPGLE` `DSPF` `React` `TypeScript` `Docker`
+
 #### 🤖 AgenteAutonomo — Equipo autónomo de ingeniería de software
 Seis agentes especializados (Product → Architecture → Developer → Security → Testing → Reviewer) que convierten un requerimiento en lenguaje natural en código listo para probar, con retroceso automático entre etapas y *human-in-the-loop* ante riesgos críticos. Proyecto en equipo: implementé las compuertas de seguridad, la observabilidad, la suite adversarial y la UI web.
 
