@@ -55,7 +55,7 @@ Bot con *slash commands*, cola de reproducción y audio de YouTube y Spotify, co
 
 `Node.js` `discord.js` `Zod` `Pino` `Docker`
 
-#### 🌐 Este portafolio — De React a producción
+#### 🌐 Portafolio — De React a producción
 Sitio en React 19 y TypeScript cuyo contenido sirve una API en .NET 10 con Clean Architecture desde PostgreSQL; un esquema de Zod valida el contenido al llegar y, si la API no responde, el sitio usa el contenido incluido en su bundle. Cada push pasa por GitHub Actions (tipos, lint, formato, pruebas y build), publica imágenes multiarquitectura en ghcr.io y despliega por SSH en un servidor de Oracle Cloud detrás de un túnel de Cloudflare, con contenedores de solo lectura y la API sin exponer a internet. **[Verlo en vivo ↗](https://emmanuelcampos.ecnexasoft.site)**
 
 `React 19` `TypeScript` `Vite` `Zod` `Vitest` `.NET 10` `ASP.NET Core` `Clean Architecture` `EF Core` `PostgreSQL` `Docker` `Nginx` `GitHub Actions` `Cloudflare Tunnel` `Oracle Cloud`
