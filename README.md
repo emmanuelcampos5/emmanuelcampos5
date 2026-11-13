@@ -134,7 +134,7 @@ Sitio en React 19 y TypeScript cuyo contenido sirve una API en .NET 10 con Clean
 - 🎓 Bachillerato en Informática Empresarial — Universidad de Costa Rica
 - ✅ Scrum Fundamentals Certified (SFC) — SCRUMstudy, 2026
 - 💬 English for IT I (50 h) — MICITT, 2025
-- ⚛️ Desarrollo Front-End con JavaScript y React (313 h) — Oracle Next Education / Alura Latam, 2024
+- ⚛️ REACT G6 - ONE (92 h) — Oracle Next Education / Alura Latam, 2024
 - 🌐 Español nativo · Inglés B2
 
 <p align="center"><sub>Especificado por mí, implementado con IA, revisado por mí.</sub></p>
