@@ -132,6 +132,7 @@ Sitio en React 19 y TypeScript cuyo contenido sirve una API en .NET 10 con Clean
 ### Formación y certificaciones
 
 - 🎓 Bachillerato en Informática Empresarial — Universidad de Costa Rica
+- ☁️ [Oracle Cloud Infrastructure Certified Enterprise AI Professional](https://catalog-education.oracle.com/pls/certview/sharebadge?id=694BAC5FB25E6982CE00A0650F3D035B34E9DF272C9E66D508AD6D9E8DB191FD) — Oracle University, 2026
 - ✅ Scrum Fundamentals Certified (SFC) — SCRUMstudy, 2026
 - 💬 English for IT I (50 h) — MICITT, 2025
 - ⚛️ REACT G6 - ONE (92 h) — Oracle Next Education / Alura Latam, 2024
